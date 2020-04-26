@@ -15,8 +15,6 @@ public class Main {
         c= add(a,b);
         System.out.println("Sum of two numbers is: " + c);
 
-
-
-	// write your code here
+        // this is my comment.
     }
 }
