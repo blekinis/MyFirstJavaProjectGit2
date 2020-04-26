@@ -15,8 +15,8 @@ public class Main {
         c= add(a,b);
         System.out.println("Sum of two numbers is: " + c);
 
-        // this is my comment.
+/*        // this is my comment.
         // this is my second comment.
-        // this is my third comment.
+        // this is my third comment.*/
     }
 }
